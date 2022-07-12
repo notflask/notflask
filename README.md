@@ -1,6 +1,6 @@
-## Hello 👋
+# Hello 👋
 
-#### Welcome to my profile, here you can see my information and see my projects.
+### Welcome to my profile, here you can see my information and see my projects.</p>
 
 ---
 ### **Learned languages and tools**

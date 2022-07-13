@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Livixx&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=notflask&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
     </td>
     <td>
       <img src="https://lanyard.cnrad.dev/api/976869682609016883">

@@ -1,39 +1,18 @@
-# Hello 👋
+### Hey, I'm Flask 👋
 
-### Welcome to my profile, here you can see my information and see my projects.</p>
+I'm a 14 year old developer and designer.
 
----
-### **Learned languages and tools**
+## 🔭 Current
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
+I'm currently a freelance developer.
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+## ⚡️ Experience
 
-### Places where you can find me :eyes:
+I like to say that I'm full-stack, though I'm mostly experienced in backend systems. I highly leverage [Python](https://www.python.org/) to build scalable realtime systems, and I pair that with React on the frontend. I've been working with React for about 1 year, Python for almost 3, and JavaScript for more than 2 years.
 
-<a href="https://steamcommunity.com/id/wellvo/">
-  <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/notflask/notflask/master/assets/steam.svg" />
-</a>
+## 📫 Contact
 
-<a href="https://open.spotify.com/user/31al65ecks2tqmvvvni7ifbec63a?si=0e58cc72cdad4edc">
-  <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/notflask/notflask/master/assets/spotify.svg" />
-</a> 
+To contact me quickly and easily, [DM me on Discord](https://discordapp.com/users/976869682609016883).
 
-<a href="https://t.me/flask_upd">
-  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/notflask/notflask/master/assets/telegram.svg" />
-</a>
-
-<br>
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=notflask&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
-    </td>
-    <td>
-      <img src="https://lanyard.cnrad.dev/api/976869682609016883">
-    </td>
-  </tr>
-</table>
+If it makes more sense, you can also email me:
+**General Inquiries:** notflask@gmail.com

@@ -8,7 +8,7 @@ I'm currently a freelance developer.
 
 ## ⚡️ Experience
 
-I like to say that I'm full-stack, though I'm mostly experienced in backend systems. I highly leverage [Python](https://www.python.org/) to build scalable realtime systems, and I pair that with React on the frontend. I've been working with React for about 1 year, Python for almost 3, and JavaScript for more than 2 years.
+I like to say that I'm full-stack, though I'm mostly experienced in backend systems. I highly leverage [Python](https://www.python.org/) to build backend systems, and I pair that with React on the frontend. I've been working with React for about 1.5 year, Python for almost 3, and JavaScript for more than 2 years.
 
 ## 📫 Contact
 

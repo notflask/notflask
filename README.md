@@ -2,11 +2,11 @@
 
 #### werkzeuge & technologien
 
-<img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,neovim,git,github,docker,vagrant&theme=dark" />
-
-#### interessen
+<img src="https://skillicons.dev/icons?i=kali,linux,c,cpp,python,bash,neovim,latex,postman,git,docker&theme=dark" />
 
 ```
+ interessen
+ ───────────────────────────────────────────────
  pentesten      │  web & netzwerk schwachstellen
  CTFs           │  tryhackme · hackthebox
  netzwerke      │  ccna grundlagen · routing · protokolle

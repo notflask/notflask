@@ -6,8 +6,8 @@
 
 #### projekte
 
-- [**grapedb**](https://github.com/notflask/grapedb) — lightweight, persistent key-value database written in modern c++
-- [**pomodoro**](https://github.com/notflask/pomodoro) — pomodoro(1) — simple unix timer for the pomodoro technique
+- [**grapedb**](https://github.com/notflask/grapedb) — leichtgewichtige, persistente Key-Value-Datenbank, geschrieben in modernem c++
+- [**pomodoro**](https://github.com/notflask/pomodoro) — pomodoro(1) — ein einfacher unix-timer für die pomodoro-technik
 - [**.config**](https://github.com/notflask/.config) — dotfiles für niri/hyprland · neovim · ubuntu/windows
 - [**server-hardening-lab**](https://github.com/notflask/server-hardening-lab) — linux server hardening · praktische labs & writeups
 - [**beginners-quest**](https://github.com/notflask/beginners-quest) — google ctf 2024 · write-ups & solver scripts

@@ -2,7 +2,7 @@
 
 #### werkzeuge & technologien, die ich benutze
 
-<img src="https://skillicons.dev/icons?i=kali,linux,c,cpp,python,bash,neovim,clion,cmake,latex,postman,git,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,python,bash,neovim,clion,latex,postman,git,docker,kali,linux&theme=dark" />
 
 #### projekte
 

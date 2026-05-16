@@ -2,10 +2,11 @@
 
 #### werkzeuge & technologien, die ich benutze
 
-<img src="https://skillicons.dev/icons?i=kali,linux,c,cpp,python,bash,neovim,latex,postman,git,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kali,linux,c,cpp,python,bash,neovim,clion,cmake,latex,postman,git,docker&theme=dark" />
 
 #### projekte
 
+- [**grapedb**](https://github.com/notflask/grapedb) — lightweight, persistent key-value database written in modern c++
 - [**.config**](https://github.com/notflask/.config) — dotfiles für niri/hyprland · neovim · ubuntu/windows
 - [**server-hardening-lab**](https://github.com/notflask/server-hardening-lab) — linux server hardening · praktische labs & writeups
 - [**beginners-quest**](https://github.com/notflask/beginners-quest) — google ctf 2024 · write-ups & solver scripts
